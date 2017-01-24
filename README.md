@@ -1,2 +1,4 @@
 # hello_world
-Hello world
+Hello people,
+
+just trying out github and maing my first commit.
